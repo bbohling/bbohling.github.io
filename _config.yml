@@ -11,7 +11,7 @@ title                    : "Brandon Bohling"
 title_separator          : "-"
 name                     : "Brandon Bohling"
 description              : "a bit of this and that"
-url                      : "https://brandonbohling.com"
+url                      : "http://brandonbohling.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
