@@ -1,0 +1,13 @@
+---
+layout: single
+title: "The View"
+date: 2012-06-23 22:34
+comments: true
+categories: photography
+---
+
+![The Coast Range](/uploads/2012/06/20120617-IMG_1305.jpg)
+
+We loved living in Arizona, but there is no denying that we have a fantastic view from our home in Oregon. Over the last few months I have switched from Aperture to Lightroom which makes photos like this even easier. Given that, I have [stuck with my MacBook Air][air], I owe my readers several posts.
+
+[air]: /2012/06/mbp-with-retina-display-or-new-mba/ "MacBook Pro with Retina Display or MacBook Air by Brandon Bohling"
