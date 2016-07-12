@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-6588573-1"
 
 # Google AdSense
 google_ad_client         :
@@ -205,6 +205,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  todo:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _pages
   - scope:
@@ -224,3 +230,15 @@ defaults:
       comments: false
       share: true
       related: true
+  # _todo
+  - scope:
+      path: ""
+      type: todo
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "todo"
